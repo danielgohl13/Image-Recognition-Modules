@@ -1,0 +1,6 @@
+--bottleneck_dir=/Volumes/MacData/Users/danielgohl/Development/Python/Tensorflow/tf_files/bottlenecks \
+--how_many_training_steps 500 \
+--model_dir=/Volumes/MacData/Users/danielgohl/Development/Python/Tensorflow/tf_files/inception \
+--output_graph=/Volumes/MacData/Users/danielgohl/Development/Python/Tensorflow/tf_files/retrained_graph.pb \
+--output_labels=/Volumes/MacData/Users/danielgohl/Development/Python/Tensorflow/tf_files/retrained_labels.txt \
+--image_dir /Volumes/MacData/Users/danielgohl/Development/Python/Tensorflow/tf_files/images/
